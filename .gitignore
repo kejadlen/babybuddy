@@ -34,3 +34,6 @@ Pipfile.lock
 
 # macOS files
 .DS_Store
+
+# Hypothesis
+.hypothesis
